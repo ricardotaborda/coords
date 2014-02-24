@@ -9,7 +9,7 @@
  * without permission.
  *
  * Contact:
- * Leonardo Ramirez-Guzman
+ * Leonardo Ramirez-Guzman and Ricardo
  * CEE, Carnegie Mellon University
  * 5000 Forbes Avenue
  * Pittsburgh, PA 15213
